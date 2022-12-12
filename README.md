@@ -32,7 +32,8 @@ Paciente;
 
 ![image](https://user-images.githubusercontent.com/96891482/207071952-9bb74798-8424-49bf-97a1-bf701da4921c.png)
 
-## Tabelas Do Banco de Dados
+### Tabelas Do Banco de Dados
+---
 Pessoa -> CPF, nome
 
 Pessoa de apoio -> idPessoaApoio, cargo, Pessoa_CPF, Ambulatorio_idAmbulatorio
@@ -59,7 +60,7 @@ Laboratorio -> CNPJ, Nome, Horario_funcionamento
 
 Exame -> idExame, Nome, Tipo, Data, Horario, Justificativa, Preparo, Convenio, Laboratorio_CNPJ, Paciente_CNS
 
-## Colaboradores 
+# Colaboradores 
 
 <table>
   <tr>
