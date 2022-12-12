@@ -1,10 +1,6 @@
 # Projeto Banco de dados de um Sistema de Saúde
 Projeto de banco de dados de um sistema de saúde fictício, com a descrição do minimundo, modelo conceitual, modelo lógico e os scipts de criação.
 
-Alunos: 
-- Karolayne Silva
-- Aldenir Teles
-- Ayrton Maia
 
 ## Descrição do minimundo
 
@@ -65,5 +61,10 @@ Exame -> idExame, Nome, Tipo, Data, Horario, Justificativa, Preparo, Convenio, L
 
 ## Colaboradores 
 
-https://www.linkedin.com/in/karolayne-silvas/
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/karolayne-silvas/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHNUS2ujDGLwg/profile-displayphoto-shrink_800_800/0/1659726701828?e=1671062400&v=beta&t=ENdrOV4vuJuxTikDchaBfbse_mXUHmXl45QlWKM15j0" width="100px;" alt=""/><br /><sub><b>Karolayne Silva</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ayrton-maia-404489228/"><img src="https://avatars.githubusercontent.com/u/114452531?v=4" width="100px;" alt=""/><br /><sub><b>Ayrton Maia</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/aldenirtelles/"><img src="https://avatars.githubusercontent.com/u/60609409?v=4" width="100px;" alt=""/><br /><sub><b>Aldenir Telles</b></sub></a></td>
+  </tr>
 
