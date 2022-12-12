@@ -33,3 +33,16 @@ Paciente;
 
 
 ## Modelo lógico
+
+![image](https://user-images.githubusercontent.com/96891482/207071952-9bb74798-8424-49bf-97a1-bf701da4921c.png)
+
+### Tabelas 
+Pessoa -> CPF, nome
+
+Pessoa de apoio -> idPessoaApoio, cargo, Pessoa_CPF, Ambulatorio_idAmbulatorio
+
+Ambulatorio -> idAmbulatorio, Especialidade, Horario_funcionamento, Hospital_CNPJ
+
+Consultar -> Motivo, medico_CRM, Paciente_CNS
+
+Medico -> 
