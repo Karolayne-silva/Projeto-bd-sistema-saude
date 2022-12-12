@@ -45,4 +45,23 @@ Ambulatorio -> idAmbulatorio, Especialidade, Horario_funcionamento, Hospital_CNP
 
 Consultar -> Motivo, medico_CRM, Paciente_CNS
 
-Medico -> 
+Medico -> CRM, Area_atuacao, RQE, Pessoa_CPF, Hospital_CNPJ
+
+Hospital -> CNPJ, nome, Horario_funcionamento
+
+Telefone -> idTelefone, Numero, Laboratorio_CNPJ, Hospital_CNPJ, Pessoa_CPF
+
+Solicitar -> Laboratorio_CNPJ, Hospital_CNPJ
+
+Paciente -> CNS, Pessoa_CPF, Ambulatorio_idAmbulatorio
+
+Diagnostico -> idDiagnostico, Data, Hipotese, CIDI, Paciente_CNS
+
+Endereco -> idEndereco, Rua, CEP, Bairro, Cidade, Numero, UF, Complemento, Paciente_CNS, Hospital_CNPJ, Laboratorio_CNPJ
+
+Laboratorio -> CNPJ, Nome, Horario_funcionamento
+
+Exame -> idExame, Nome, Tipo, Data, Horario, Justificativa, Preparo, Convenio, Laboratorio_CNPJ, Paciente_CNS
+
+## Colaboradores 
+
