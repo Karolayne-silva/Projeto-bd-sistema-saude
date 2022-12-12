@@ -63,8 +63,8 @@ Exame -> idExame, Nome, Tipo, Data, Horario, Justificativa, Preparo, Convenio, L
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/karolayne-silvas/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHNUS2ujDGLwg/profile-displayphoto-shrink_800_800/0/1659726701828?e=1671062400&v=beta&t=ENdrOV4vuJuxTikDchaBfbse_mXUHmXl45QlWKM15j0" width="100px;" alt=""/><br /><sub><b>Karolayne Silva</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/ayrton-maia-404489228/"><img src="https://avatars.githubusercontent.com/u/114452531?v=4" width="100px;" alt=""/><br /><sub><b>Ayrton Maia</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/aldenirtelles/"><img src="https://avatars.githubusercontent.com/u/60609409?v=4" width="100px;" alt=""/><br /><sub><b>Aldenir Telles</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/karolayne-silvas/"><img src="https://media-exp1.licdn.com/dms/image/D4D03AQFKcKwPnjaP4g/profile-displayphoto-shrink_200_200/0/1665427761243?e=1676505600&v=beta&t=qW-_JKEP_DqV1SkzjzqYWFqDO57qQnHjiZ6LyU-pIgQ" width="100px;" alt=""/><br /><sub><b>Karolayne Silva</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ayrton-maia-404489228/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFOZAJm8Zqwgw/profile-displayphoto-shrink_200_200/0/1638994306152?e=1676505600&v=beta&t=DaDdWR1LHl6K4rO-PA1RUaYmhlk0fF3ZM0Zga-cqxaM" width="100px;" alt=""/><br /><sub><b>Ayrton Maia</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/aldenirtelles/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQFDSsg7qdLV5w/profile-displayphoto-shrink_200_200/0/1616101838264?e=1676505600&v=beta&t=JkVn2R4flewVkPgD44OZFD_f9eTaMGRL3v4sLtz42wI" width="100px;" alt=""/><br /><sub><b>Aldenir Telles</b></sub></a></td>
   </tr>
 
