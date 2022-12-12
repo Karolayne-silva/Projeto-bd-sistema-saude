@@ -26,3 +26,10 @@ com vários integrantes do Pessoal de apoio;
 Paciente;
 - Cada Paciente pode receber vários Diagnósticos, e cada Diagnóstico é de um
 único Paciente.
+
+## Modelo Conceitual
+
+![image](https://user-images.githubusercontent.com/96891482/207071784-cb6e2d29-6b1a-442e-bac2-266fb46a08af.png)
+
+
+## Modelo lógico
