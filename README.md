@@ -65,3 +65,5 @@ Exame -> idExame, Nome, Tipo, Data, Horario, Justificativa, Preparo, Convenio, L
 
 ## Colaboradores 
 
+https://www.linkedin.com/in/karolayne-silvas/
+
